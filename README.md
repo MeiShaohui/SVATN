@@ -1,2 +1,23 @@
-# SVATN
-Spectral Variability Augmented Two-Stream Network For Hyperspectral Sparse Unmixing
+# Spectral Variability Augmented Two-Stream Network for Hyperspectral Sparse Unmixing
+
+This set of files contains the code for SVATN published in the papers:
+ "[Spectral Variability Augmented Two-Stream Network for Hyperspectral Sparse Unmixing](https://ieeexplore.ieee.org/document/9919800)" 
+
+Note that the model used is a modified version of the SUnCNN (`SUnCNN: Sparse Unmixing Using Unsupervised Convolutional Neural Network') and therefore the copyright of it is preseved.
+
+## Citation
+---------------------
+
+**Please kindly cite the papers if this code is useful and helpful for your research.**
+
+```bibtex
+@ARTICLE{Zhang2022SVATN,
+  author={Zhang, Ge and Mei, Shaohui and Xie, Bobo and Feng, Yan and Du, Qian},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Spectral Variability Augmented Two-Stream Network for Hyperspectral Sparse Unmixing}, 
+  year={2022},
+  volume={19},
+  number={},
+  pages={1-5},
+  doi={10.1109/LGRS.2022.3214843}}
+```
