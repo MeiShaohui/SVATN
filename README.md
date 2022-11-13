@@ -1,6 +1,6 @@
 # Spectral Variability Augmented Two-Stream Network for Hyperspectral Sparse Unmixing
 
-This set of files contains the code for SVATN published in the papers:
+This set of files contains the code for SVATN published in the paper:
  "[Spectral Variability Augmented Two-Stream Network for Hyperspectral Sparse Unmixing](https://ieeexplore.ieee.org/document/9919800)" 
 
 
@@ -8,7 +8,7 @@ This set of files contains the code for SVATN published in the papers:
 ## Citation
 ---------------------
 
-**Please kindly cite the papers if this code is useful and helpful for your research.**
+**Please kindly cite the paper if this code is useful and helpful for your research.**
 
 ```bibtex
 @ARTICLE{Zhang2022SVATN,
