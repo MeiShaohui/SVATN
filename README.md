@@ -5,6 +5,8 @@ This set of files contains the code for SVATN published in the paper:
 
 The implementation of SVATN model is based on the SUnCNN (`SUnCNN: Sparse Unmixing Using Unsupervised Convolutional Neural Network').
 
+![image](https://github.com/MeiShaohui/SVATN/blob/main/framework.png)
+
 ## Citation
 ---------------------
 
