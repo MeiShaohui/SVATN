@@ -24,4 +24,4 @@ This set of files contains the code for SVATN published in the paper:
 
 ## Thanks
 ---------------------
-Note that the model used is a modified version of the SUnCNN (`SUnCNN: Sparse Unmixing Using Unsupervised Convolutional Neural Network') and therefore the copyright of it is preseved.
+Note that the proposed model is a modified version of the SUnCNN (`SUnCNN: Sparse Unmixing Using Unsupervised Convolutional Neural Network').
