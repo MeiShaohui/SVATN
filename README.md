@@ -3,7 +3,7 @@
 This set of files contains the code for SVATN published in the paper:
  "[Spectral Variability Augmented Two-Stream Network for Hyperspectral Sparse Unmixing](https://ieeexplore.ieee.org/document/9919800)" 
 
-
+The implementation of SVATN model is based on the SUnCNN (`SUnCNN: Sparse Unmixing Using Unsupervised Convolutional Neural Network').
 
 ## Citation
 ---------------------
@@ -22,6 +22,5 @@ This set of files contains the code for SVATN published in the paper:
   doi={10.1109/LGRS.2022.3214843}}
 ```
 
-## Thanks
----------------------
-Note that the proposed model is based on the SUnCNN (`SUnCNN: Sparse Unmixing Using Unsupervised Convolutional Neural Network').
+
+
