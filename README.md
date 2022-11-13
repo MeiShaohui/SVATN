@@ -22,6 +22,6 @@ This set of files contains the code for SVATN published in the papers:
   doi={10.1109/LGRS.2022.3214843}}
 ```
 
-## Acknowledgement
+## Thanks
 ---------------------
 Note that the model used is a modified version of the SUnCNN (`SUnCNN: Sparse Unmixing Using Unsupervised Convolutional Neural Network') and therefore the copyright of it is preseved.
